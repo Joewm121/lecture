@@ -1,0 +1,13 @@
+h2.intro {
+  color: pink;
+  font-style:italic;
+}
+p.intro {
+  color: brown;
+  text-decoration: underline;
+  font-family: cursive;
+}
+img.intro {
+  border-radius: 50%;
+  border: 1px solid black; 
+}
